@@ -29,3 +29,11 @@ Home sales prices and characteristics for Seattle and King County, WA (May 2014 
 | long          | Longitude coordinate                                                                                        |
 | sqft_living15 | Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area |
 | sqft_lot15    | LotSize area in 2015(implies-- some renovations)                                                            |
+
+## Summary
+1. Importing Data Sets
+2. Data Wrangling
+3. Exploratory Data Analysis
+4. Model Development
+5. Model Evaluation and Refinement
+   
