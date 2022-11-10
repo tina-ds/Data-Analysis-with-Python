@@ -1,6 +1,6 @@
 # Data-Analysis-with-Python
-This is my final data analysis assignment about house sales in King County, USA
-Home sales prices and characteristics for Seattle and King County, WA (May 2014 - 2015).
+This is my final data analysis assignment about house sales in King County, USA.
+Home sales prices and characteristics for Seattle and King County, WA (May 2014 - 2015):
 
 - Observations = 21,613
 - Variables = 21
